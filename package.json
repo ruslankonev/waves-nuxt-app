@@ -1,0 +1,22 @@
+{
+  "name": "waves-nuxt-app",
+  "version": "1.0.0",
+  "description": "My sweet Nuxt.js project",
+  "author": "Ruslan Konev",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.3.4",
+    "ant-design-vue": "^1.1.10",
+    "@nuxtjs/axios": "^5.3.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
